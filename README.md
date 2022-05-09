@@ -11,5 +11,5 @@ Have fun!
 
 **Credits**:
 
-**Katerina Petelova**: Program design, Projects 1-2
+**Katerina Petelova**: Program design, Projects 1-2 </br>
 **Felitsiya Shakola**: Project 6
